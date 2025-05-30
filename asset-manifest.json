@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/NucleoCorp/static/css/main.f747772c.css",
-    "main.js": "/NucleoCorp/static/js/main.50263a81.js",
+    "main.css": "/NucleoCorp/static/css/main.5f34b811.css",
+    "main.js": "/NucleoCorp/static/js/main.529e029a.js",
     "static/media/celo2.jpg": "/NucleoCorp/static/media/celo2.c2acc040861cc85f4635.jpg",
     "static/media/snk.jpg": "/NucleoCorp/static/media/snk.dec4de63156e12c318eb.jpg",
     "static/media/bg.jpg": "/NucleoCorp/static/media/bg.8d35d9345bd70f48d487.jpg",
@@ -9,11 +9,11 @@
     "static/media/cain.jpg": "/NucleoCorp/static/media/cain.aa8fa90923dc74149816.jpg",
     "static/media/jao.jpg": "/NucleoCorp/static/media/jao.122d4845d076554725ac.jpg",
     "index.html": "/NucleoCorp/index.html",
-    "main.f747772c.css.map": "/NucleoCorp/static/css/main.f747772c.css.map",
-    "main.50263a81.js.map": "/NucleoCorp/static/js/main.50263a81.js.map"
+    "main.5f34b811.css.map": "/NucleoCorp/static/css/main.5f34b811.css.map",
+    "main.529e029a.js.map": "/NucleoCorp/static/js/main.529e029a.js.map"
   },
   "entrypoints": [
-    "static/css/main.f747772c.css",
-    "static/js/main.50263a81.js"
+    "static/css/main.5f34b811.css",
+    "static/js/main.529e029a.js"
   ]
 }
