@@ -11,7 +11,7 @@ import ErrorPage from "./components/ErrorPage";
 
 const router = createBrowserRouter([
   {
-    path: "/NucleoCorp",
+    path: "/Nucleo-Corp",
     element: <App />,
     errorElement: < ErrorPage/>,
     children: [
