@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/NucleoCorp/static/css/main.5f34b811.css",
-    "main.js": "/NucleoCorp/static/js/main.529e029a.js",
-    "static/media/celo2.jpg": "/NucleoCorp/static/media/celo2.c2acc040861cc85f4635.jpg",
-    "static/media/snk.jpg": "/NucleoCorp/static/media/snk.dec4de63156e12c318eb.jpg",
-    "static/media/bg.jpg": "/NucleoCorp/static/media/bg.8d35d9345bd70f48d487.jpg",
-    "static/media/shants.jpg": "/NucleoCorp/static/media/shants.1614cbf6d5560dc8fce3.jpg",
-    "static/media/cain.jpg": "/NucleoCorp/static/media/cain.aa8fa90923dc74149816.jpg",
-    "static/media/jao.jpg": "/NucleoCorp/static/media/jao.122d4845d076554725ac.jpg",
-    "index.html": "/NucleoCorp/index.html",
-    "main.5f34b811.css.map": "/NucleoCorp/static/css/main.5f34b811.css.map",
-    "main.529e029a.js.map": "/NucleoCorp/static/js/main.529e029a.js.map"
+    "main.css": "/warlleyrocha/Nucleo-Corp/static/css/main.5f34b811.css",
+    "main.js": "/warlleyrocha/Nucleo-Corp/static/js/main.925105c6.js",
+    "static/media/celo2.jpg": "/warlleyrocha/Nucleo-Corp/static/media/celo2.c2acc040861cc85f4635.jpg",
+    "static/media/snk.jpg": "/warlleyrocha/Nucleo-Corp/static/media/snk.dec4de63156e12c318eb.jpg",
+    "static/media/bg.jpg": "/warlleyrocha/Nucleo-Corp/static/media/bg.8d35d9345bd70f48d487.jpg",
+    "static/media/shants.jpg": "/warlleyrocha/Nucleo-Corp/static/media/shants.1614cbf6d5560dc8fce3.jpg",
+    "static/media/cain.jpg": "/warlleyrocha/Nucleo-Corp/static/media/cain.aa8fa90923dc74149816.jpg",
+    "static/media/jao.jpg": "/warlleyrocha/Nucleo-Corp/static/media/jao.122d4845d076554725ac.jpg",
+    "index.html": "/warlleyrocha/Nucleo-Corp/index.html",
+    "main.5f34b811.css.map": "/warlleyrocha/Nucleo-Corp/static/css/main.5f34b811.css.map",
+    "main.925105c6.js.map": "/warlleyrocha/Nucleo-Corp/static/js/main.925105c6.js.map"
   },
   "entrypoints": [
     "static/css/main.5f34b811.css",
-    "static/js/main.529e029a.js"
+    "static/js/main.925105c6.js"
   ]
 }
